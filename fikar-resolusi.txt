@@ -2,3 +2,4 @@ My Resolusi
   - Learn Java
   - Learn kotlin
   - Learn WPA
+  - Build UI / UX 
