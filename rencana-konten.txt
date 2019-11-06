@@ -2,3 +2,5 @@ RENCANA KONTEN
   - Javascript
   - Php Framework
   - Interview
+  - Es6
+  - Framework javascript
